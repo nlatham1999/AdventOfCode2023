@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/nlatham1999/AdventOfCode2023/days2018"
+	"github.com/nlatham1999/AdventOfCode2023/days2023"
 )
 
 func main() {
-	// days2022.RunDayOne()
-	days2018.RunForDayOne()
+	// days2023.RunDayOne()
+	days2023.RunDayTwo()
 }
