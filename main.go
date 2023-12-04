@@ -6,5 +6,7 @@ import (
 
 func main() {
 	// days2023.RunDayOne()
-	days2023.RunDayTwo()
+	// days2023.RunDayTwo()
+	// days2023.RunDayThree()
+	days2023.RunDayFour()
 }
