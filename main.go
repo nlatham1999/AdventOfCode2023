@@ -10,5 +10,6 @@ func main() {
 	// days2023.RunDayThree()
 	// days2023.RunDayFour()
 	// days2023.RunDayFive()
-	days2023.RunDaySix()
+	// days2023.RunDaySix()
+	days2023.RunDaySeven()
 }
