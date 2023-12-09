@@ -16,3 +16,10 @@ func SortIntDesc(numbers []int) []int {
 	})
 	return numbers
 }
+
+func SortIntAsc(numbers []int) []int {
+	sort.Slice(numbers, func(i, j int) bool {
+		return numbers[i] < numbers[j]
+	})
+	return numbers
+}
